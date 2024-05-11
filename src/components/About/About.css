@@ -1,0 +1,63 @@
+.about{
+    height:40rem;
+    width: 100vw;
+    /* background-color: red; */
+    display: flex;
+    /* align-items: center; */
+}
+.aboutimg{
+    height: 20rem;
+    width: 20rem;
+    border-radius:10rem;
+    margin-top: 9rem;
+    /* margin-bottom: 10rem; */
+    margin-left: 3rem;
+    border: 2px solid white;
+}
+.aboutsection{
+    height: 35rem;
+    width: 75vw;
+    /* background-color: red; */
+    /* margin-left: 2rem; */
+    margin-top: 5rem;
+}
+.aboutheading{
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+.aboutheading:hover{
+    color: aqua;
+    cursor: pointer;
+}
+.headingh3about{
+   
+    margin-left: 18rem;
+    width: 40vw;
+    height: 10rem;
+    text-align: center;
+    font-size: 1.2rem;
+    
+}
+.para1{
+    margin-top: 1rem;
+    margin-left: 18rem;
+    width: 40vw;
+    height: 10rem;
+    text-align: center;
+    font-size: 1.4rem;
+}
+.downloadbtn{
+        height: 3rem;
+        width: 10rem;
+        border-radius: 2rem;
+        font-size: 1.2rem;
+        font-weight: 700;
+        margin-top: 2rem;
+        margin-left: 32rem;
+        border: none;
+    }
+    .downloadbtn:hover{
+        cursor: pointer;
+        background-color:aqua;
+}

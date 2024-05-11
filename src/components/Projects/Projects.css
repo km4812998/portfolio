@@ -1,0 +1,67 @@
+.projects{
+    height: 40rem;
+    width: 100vw;
+}
+.headingproject{
+    font-size: 1.5rem;
+    text-align:center;
+    margin-bottom: 5rem;
+    margin-top: 2rem;
+    
+}
+.headingproject:hover{
+    color: aqua;
+    cursor: pointer;
+}
+.projects1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.box1{
+    height: 30rem;
+    width: 20rem;
+    margin-left: 1rem;
+    flex-wrap: wrap;
+}
+.box1:hover{
+    border: 1px solid white;
+    cursor: pointer;
+    border-radius: 1rem;
+
+}
+.headingpr1{
+    text-align: center;
+    font-size: 2rem;
+}
+.headingpr2{
+    text-align: center;
+    font-size: 2rem;
+}
+.headingpr3{
+    text-align: center;
+    font-size: 2rem;
+}
+.portfolioimg{
+    height: 10rem;
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+.box1 p{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-size: 1.4rem;
+    text-align: center;
+}
+.ecommercepng{
+    height: 10rem;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+}
+.amazonimg{
+    height: 10rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+}

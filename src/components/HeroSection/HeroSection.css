@@ -1,0 +1,56 @@
+.herosection{
+    color:white;
+    height: 40rem;
+    /* background-color:rgb(229, 219, 219); */
+    width: 100vw;
+    display: flex;
+}
+.left{
+    /* background-color: aqua; */
+    padding-left: 9rem;
+    width: 50vw;
+    height: 40rem;
+    padding-top: 10rem;
+}
+.para{
+    font-size: 1.5rem;
+}
+.herosectionh1{
+    font-size: 1.8rem;
+}
+.herosectionh1 span{
+    color:aqua;
+}
+.stack{
+    font-size: 1.8rem;
+}
+.mypics{
+    height: 35rem;
+    margin-top: 2.5rem;
+    margin-left: 15rem;
+    padding-top: 2rem;
+    /* padding-left: 10rem; */
+    border-radius: 2rem;
+    /* width: 2rem; */
+}
+.paracontent{
+    font-size: 1.4rem;
+    margin-top: 2rem;
+}
+.links{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:baseline;
+    /* align-content: space-evenly; */
+    /* height: 150px;
+    width: auto; */
+}
+.links img{
+    margin-top: 20px;
+    padding: 5px;
+    height: 70px;
+    width: 70px;
+}
+.links img:hover{
+    cursor: pointer;
+}
