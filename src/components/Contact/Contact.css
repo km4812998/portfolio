@@ -1,0 +1,72 @@
+.contact{
+    height: 40rem;
+    width: 100vw;
+}
+.contactheading{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.contactheading:hover{
+    color: aqua;
+    cursor: pointer;
+}
+.content{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.input1{
+    height: 3rem;
+    width: 45vw;
+    margin-left: 25rem;
+    border-radius: 2rem;
+    margin-top: 1rem;
+    padding-left: 2rem;
+    font-weight: 700;
+    color: black;
+    border: none;
+}
+.input1::placeholder{
+    color: black;
+}
+.input2{
+    height: 3rem;
+    width: 45vw;
+    margin-left: 25rem;
+    border-radius: 2rem;
+    margin-top: 1rem;
+    padding-left: 2rem;
+    font-weight: 700;
+    color: black;
+    border: none;
+}
+.input2::placeholder{
+    color: black;
+}
+.text{
+    margin-top: 2rem;
+    margin-left: 25rem;
+    height: 15rem;
+    width: 45vw;
+    border-radius: 1rem;
+    font-weight: 700;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+.text::placeholder{
+    color: black;
+}
+.submitbtn{
+    height: 3rem;
+    width: 10rem;
+    border-radius: 2rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-left: 40rem;
+    border: none;
+}
+.submitbtn:hover{
+    cursor: pointer;
+    background-color:aqua;
+}
